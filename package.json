@@ -1,0 +1,14 @@
+{
+	"name": "Bitplay",
+	"description": "Bitcoin Lottery Game",
+	"version": "0.0.1",
+	"author": "Bitplay",
+	"main": "server.js",
+	"dependencies": {
+		"express": "~4.7.2",
+		"body-parser": "~1.5.2",
+		"mongoose": "~3.8.8",
+		"method-override": "~2.1.2",
+		"bitcore" : "~0.1.36"
+	}
+}
